@@ -13,5 +13,5 @@
 
 # [START gae_quickstart_yaml]
 runtime: nodejs14
-service_account:trialforrepro@appspot.gserviceaccount.com
+service_account: trialforrepro@appspot.gserviceaccount.com
 # [END gae_quickstart_yaml]
